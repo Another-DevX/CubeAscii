@@ -14,17 +14,17 @@ This project renders 3D cubes in the terminal using ASCII characters. It was ori
 
 To compile the program, run the following command:
 
-\`\`\`bash
+``` bash
 gcc -o cube3D cube3D.c -lm
-\`\`\`
+```
 
 <!-- Instructions for running -->
 
 To run the program:
 
-\`\`\`bash
+```bash
 ./cube3D
-\`\`\`
+```
 
 <!-- Credits section -->
 
